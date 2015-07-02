@@ -1,4 +1,4 @@
-# databasebackup
+# Databasebackup
 Backup script to Mysql/Mariadb databases.
 
 Script de backup múltiplo de banco de dados (mysql/mariadb) com envio de arquivo de backup por email
