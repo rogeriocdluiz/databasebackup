@@ -28,6 +28,8 @@
 #
 # insira também o nome de cada base de dados no arquivo database.list (DBFILE)
 #
+# Script produzido por Rogerio da Costa (rogeriodacosta.com.br)
+#
 #-------------------------------------------------------------------------------
 
 
